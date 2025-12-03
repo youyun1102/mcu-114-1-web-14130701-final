@@ -1,1 +1,1 @@
-section{display:flex;flex-direction:column;min-height:100vh}section div.main{flex-grow:1}html,body{margin:0;padding:0}/*# sourceMappingURL=style.min.css.map */
+section{display:flex;flex-direction:column;min-height:100vh}section div.main{flex-grow:1}header div.container{max-width:90vw;height:6rem;margin:0px auto;padding-left:2rem;padding-right:2rem;display:flex;align-items:center}header div.container h1{margin:0px;font-size:2rem;font-weight:700;line-height:1.75rem;color:#1e9fab}html,body{margin:0;padding:0}/*# sourceMappingURL=style.min.css.map */
